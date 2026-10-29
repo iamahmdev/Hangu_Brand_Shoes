@@ -1,0 +1,8 @@
+{
+  "name": "Markhor & Co. | Luxury Men's Leather Footwear",
+  "description": "Handcrafted premium men's leather shoes, formal oxfords, loafers, casual slip-ons, and luxury sneakers with Cash on Delivery across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
